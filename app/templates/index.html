@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommendation System</title>
+</head>
+<body>
+
+<h2>🛒 Product Recommendation System</h2>
+
+<form method="POST">
+    <input type="text" name="product" placeholder="Enter product name" required>
+    <input type="number" name="budget" placeholder="Enter budget (optional)">
+    <button type="submit">Recommend</button>
+</form>
+
+<hr>
+
+{% for item in results %}
+    <p><b>{{ item.product }}</b></p>
+    <p>Price: ₹{{ item.price }}</p>
+    <p>Rating: {{ item.rating }}</p>
+    <p>Reason: {{ item.reason }}</p>
+    <hr>
+{% endfor %}
+
+</body>
+</html>
