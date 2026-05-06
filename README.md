@@ -1,4 +1,4 @@
-# 🛒 Explainable & Bias-Aware Product Recommendation System
+#  Explainable & Bias-Aware Product Recommendation System
 
 ##  Project Overview
 This project is an intelligent e-commerce product recommendation system that suggests relevant products based on similarity, user context, and fairness principles. Unlike traditional systems, it not only recommends products but also explains the reason behind each recommendation while ensuring balanced visibility for both popular and less-known products.
@@ -36,7 +36,7 @@ This project introduces a hybrid approach combining:
    - Including both popular and less-explored products  
    - Avoiding over-dependence on highly rated items  
 
- This improves transparency, fairness, and user trust in recommendation systems.
+This improves transparency, fairness, and user trust in recommendation systems.
 
 ---
 
@@ -70,7 +70,7 @@ ecommerce-recommendation-system/
 
 ---
 
-##  Dataset
+## Dataset
 - Flipkart Product Dataset (Kaggle)  
 - Includes:
   - Product Name  
@@ -85,9 +85,9 @@ ecommerce-recommendation-system/
 
 ### 1️. Clone the Repository
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/ChandanaKamesh123/project-1.git
 
-cd repo-name
+cd project-1
 
 
 ### 2️. Install Dependencies
@@ -139,4 +139,4 @@ This project demonstrates how machine learning can be applied to build intellige
 ---
 
 ##  Author
-Chandana# project-1
+CHANDANA KAMESH
