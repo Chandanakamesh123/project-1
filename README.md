@@ -1,11 +1,11 @@
 # 🛒 Explainable & Bias-Aware Product Recommendation System
 
-## 📌 Project Overview
+##  Project Overview
 This project is an intelligent e-commerce product recommendation system that suggests relevant products based on similarity, user context, and fairness principles. Unlike traditional systems, it not only recommends products but also explains the reason behind each recommendation while ensuring balanced visibility for both popular and less-known products.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Improve user experience through personalized recommendations  
 - Provide transparency using explainable AI  
 - Reduce popularity bias in product recommendations  
@@ -13,16 +13,16 @@ This project is an intelligent e-commerce product recommendation system that sug
 
 ---
 
-## 🚀 Key Features
-- 🔍 Content-Based Recommendation using TF-IDF and Cosine Similarity  
-- 🧠 Explainable AI (shows why a product is recommended)  
-- ⚖️ Bias-Aware System (balances popular & less-rated products)  
-- 💰 Price-Based Filtering (budget-aware recommendations)  
-- 🌐 Simple Web Interface using Flask  
+##  Key Features
+-  Content-Based Recommendation using TF-IDF and Cosine Similarity  
+-  Explainable AI (shows why a product is recommended)  
+-  Bias-Aware System (balances popular & less-rated products)  
+-  Price-Based Filtering (budget-aware recommendations)  
+-  Simple Web Interface using Flask  
 
 ---
 
-## 🧠 Novelty
+##  Novelty
 This project introduces a hybrid approach combining:
 
 1. **Explainable Recommendation**  
@@ -36,11 +36,11 @@ This project introduces a hybrid approach combining:
    - Including both popular and less-explored products  
    - Avoiding over-dependence on highly rated items  
 
-👉 This improves transparency, fairness, and user trust in recommendation systems.
+ This improves transparency, fairness, and user trust in recommendation systems.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Python  
 - Pandas  
 - Scikit-learn  
@@ -49,7 +49,7 @@ This project introduces a hybrid approach combining:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ecommerce-recommendation-system/
 │
@@ -70,7 +70,7 @@ ecommerce-recommendation-system/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Flipkart Product Dataset (Kaggle)  
 - Includes:
   - Product Name  
@@ -81,33 +81,33 @@ ecommerce-recommendation-system/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️. Clone the Repository
 
 git clone https://github.com/your-username/repo-name.git
 
 cd repo-name
 
 
-### 2️⃣ Install Dependencies
+### 2️. Install Dependencies
 
 pip install -r requirements.txt
 
 
-### 3️⃣ Run the Application
+### 3️. Run the Application
 
 python app/app.py
 
 
-### 4️⃣ Open in Browser
+### 4️. Open in Browser
 
 http://127.0.0.1:5000/
 
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 Input:
 
@@ -125,7 +125,7 @@ Reason: same category, within your budget, highly rated
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 - Add user login & personalization  
 - Integrate real-time user behavior tracking  
 - Use deep learning for better recommendations  
@@ -133,10 +133,10 @@ Reason: same category, within your budget, highly rated
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 This project demonstrates how machine learning can be applied to build intelligent and fair recommendation systems. By combining explainability and bias-awareness, it improves both user trust and product visibility in e-commerce platforms.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Chandana# project-1
